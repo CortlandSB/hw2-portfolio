@@ -1,0 +1,9 @@
+.container {  
+    display: flex;
+
+    list-style-type: none;  
+  }
+
+li {
+    color: red;
+}
